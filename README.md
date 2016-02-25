@@ -14,7 +14,7 @@
 
 ### Despliegue en github.io
 
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/)
+*[http://ajyanreyu.github.io/conversor-de-temperatura-simple-norbertoalbano/](http://ajyanreyu.github.io/conversor-de-temperatura-simple-norbertoalbano/)
 
 ### Ejecutar las pruebas(no en esta practica)
 
