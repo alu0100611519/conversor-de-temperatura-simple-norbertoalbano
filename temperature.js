@@ -13,11 +13,10 @@ function calculate() {
       var exp = m[3];
       var type= m[6];
       num = num * (Math.pow(10,exp));
-      console.log(exp);
-      console.log(m[3]);
+
     }else{
     var type = m[2];
-    console.log(type);
+
   }
     num = parseFloat(num);
     if (type == 'c' || type == 'C' || type == 'Ce' || type == 'Cel') {
