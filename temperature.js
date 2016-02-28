@@ -13,7 +13,7 @@ function calculate() {
       var exp = m[3];
       var type= m[6];
       num = num * (Math.pow(10,exp));
-
+    console.log(exp);
     }else{
     var type = m[2];
 
